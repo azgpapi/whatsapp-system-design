@@ -1,3 +1,4 @@
+![COM](../diagrams/whatsup-communication-v1.png)
 # Communication method for Mobile App and Chat Servers
 
 - Initially we have 3 possibiliites: 
