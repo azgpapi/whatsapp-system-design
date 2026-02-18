@@ -1,3 +1,5 @@
+![HLD](../diagrams/whatsup-hld-v1.png)
+
 High-Level Design of Our Big Project Whatsapp! 
 
 😎 Introduction & Goals 
