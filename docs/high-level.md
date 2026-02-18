@@ -30,3 +30,4 @@ Example: Kafka Message Queue or Rabbit MQ
 
 * Presence Service 
 👥 Used for managing online and offline users. Recieves updates from Redis and publish presence changes. 
+
