@@ -1,3 +1,5 @@
+![HLD](../diagrams/whatsup-hld-v1.png)
+
 High-Level Design of Our Big Project Whatsapp! 
 
 😎 Introduction & Goals 
@@ -30,4 +32,7 @@ Example: Kafka Message Queue or Rabbit MQ
 
 * Presence Service 
 👥 Used for managing online and offline users. Recieves updates from Redis and publish presence changes. 
+<<<<<<< HEAD
 
+=======
+>>>>>>> bcd11b36feba7590eecf41a14bd0522fdeeee40e
